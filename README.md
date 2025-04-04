@@ -4,12 +4,12 @@ Sou Técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Sistem
 
 ### 🎓 Educação
 
-- **Sistemas de Informação** (Em andamento) - Universidade XYZ
+- **Sistemas de Informação** (Em andamento) - Universidade Mogi das Cruzes
 - **Técnico em Desenvolvimento de Sistemas** - SENAI
 
 ### 💼 Experiência
 
-- **Aprendiz em Logística** - Empresa XYZ (2024 - presente)  
+- **Aprendiz em Logística** - Empresa Softys (FEV 2025 - presente)  
   Trabalhando no apoio logístico e buscando otimizar processos com o uso de tecnologias, além de aprender sobre a aplicação de soluções de software na área de logística.
 
 ### 📊 Estatísticas do GitHub
