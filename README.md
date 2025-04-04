@@ -11,6 +11,8 @@ Sou Técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Sistem
   </a>
 </div>
 
+
+
 ### 🛠️ Tecnologias que eu uso
 
 <div style="display: inline_block"><br>
@@ -24,8 +26,12 @@ Sou Técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Sistem
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+
+
 ### 📬 Vamos nos conectar?
 
-- [Gmail](mailto:gabiicerqueira7@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/gabriela-cerqueira-14b204331)
+<div> 
+  <a href = "mailto:gabiicerqueira7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriela-cerqueira-14b204331" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
