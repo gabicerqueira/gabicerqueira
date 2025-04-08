@@ -2,16 +2,6 @@
 
 Sou Técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Sistemas de Informação. Trabalho como aprendiz na área de Logística, buscando sempre expandir meu conhecimento e minhas habilidades no desenvolvimento de soluções tecnológicas.
 
-### 🎓 Educação
-
-- **Sistemas de Informação** (Em andamento) - Universidade Mogi das Cruzes
-- **Técnico em Desenvolvimento de Sistemas** - SENAI
-
-### 💼 Experiência
-
-- **Aprendiz em Logística** - Empresa Softys (FEV 2025 - presente)  
-  Trabalhando no apoio logístico e buscando otimizar processos com o uso de tecnologias, além de aprender sobre a aplicação de soluções de software na área de logística.
-
 ### 📊 Estatísticas do GitHub
 
 <div>
@@ -40,3 +30,13 @@ Sou Técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Sistem
   <a href = "mailto:gabiicerqueira7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-cerqueira-14b204331" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+### 🎓 Educação
+
+- **Sistemas de Informação** (Em andamento) - Universidade Mogi das Cruzes
+- **Técnico em Desenvolvimento de Sistemas** - SENAI
+
+### 💼 Experiência
+
+- **Aprendiz em Logística** - Empresa Softys (FEV 2025 - presente)  
+  Trabalhando no apoio logístico e buscando otimizar processos com o uso de tecnologias, além de aprender sobre a aplicação de soluções de software na área de logística.
