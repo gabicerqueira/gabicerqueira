@@ -40,3 +40,10 @@ Sou Técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Sistem
 
 - **Aprendiz em Logística** - Empresa Softys (FEV 2025 - presente)  
   Trabalhando no apoio logístico e buscando otimizar processos com o uso de tecnologias, além de aprender sobre a aplicação de soluções de software na área de logística.
+
+### Contagem de visitas
+<div align="center">
+  <br><p align="centre"><b>Contagem de Visitas</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/gabicerqueira}/count.svg" /></p> 
+  <br>
+</div>
