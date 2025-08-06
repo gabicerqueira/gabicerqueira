@@ -38,7 +38,8 @@ Sou Técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Sistem
 
 ### 💼 Experiência
 
-- **Aprendiz em Logística** - Empresa Softys (FEV 2025 - presente)  
+- **Aprendiz de Logística** - Empresa Softys (FEV 2025 - JUL 2025)
+- **Estagiária de Logística** - Empresa Softys (AGO 2025 - presente)    
   Trabalhando no apoio logístico e buscando otimizar processos com o uso de tecnologias, além de aprender sobre a aplicação de soluções de software na área de logística.
 
 ### Contagem de visitas
