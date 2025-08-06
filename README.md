@@ -1,6 +1,6 @@
 ## Olá, eu sou a Gabriela Cerqueira 👋
 
-Sou Técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Sistemas de Informação. Trabalho como aprendiz na área de Logística, buscando sempre expandir meu conhecimento e minhas habilidades no desenvolvimento de soluções tecnológicas.
+Sou Técnica em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Sistemas de Informação. Trabalho como estagiária na área de Logística, buscando sempre expandir meu conhecimento e minhas habilidades no desenvolvimento de soluções tecnológicas.
 
 ### 📊 Estatísticas do GitHub
 
